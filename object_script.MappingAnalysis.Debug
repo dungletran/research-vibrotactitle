@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\MappingAnalysis.o
+./debug\PostureRecorder.o
+./debug\USBConnector.o
+./debug\DataHandler.o
+./debug\DataCalculatingThread.o
+./debug\VibroThread.o
+./debug\testingIMUthread.o
+./debug\testingVibroThread.o
+./debug\moc_MappingAnalysis.o
+./debug\moc_DataCalculatingThread.o
+./debug\moc_VibroThread.o
+./debug\moc_testingIMUthread.o
+./debug\moc_testingVibroThread.o
+./debug\qrc_MappingAnalysis.o
+);

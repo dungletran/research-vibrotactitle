@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\MappingAnalysis.o
+./release\PostureRecorder.o
+./release\USBConnector.o
+./release\DataHandler.o
+./release\DataCalculatingThread.o
+./release\VibroThread.o
+./release\testingIMUthread.o
+./release\testingVibroThread.o
+./release\moc_MappingAnalysis.o
+./release\moc_DataCalculatingThread.o
+./release\moc_VibroThread.o
+./release\moc_testingIMUthread.o
+./release\moc_testingVibroThread.o
+./release\qrc_MappingAnalysis.o
+);

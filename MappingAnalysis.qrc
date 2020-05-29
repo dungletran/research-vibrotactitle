@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PostureImages/posture_1.png</file>
+        <file>PostureImages/posture_2.png</file>
+        <file>PostureImages/posture_3.png</file>
+        <file>PostureImages/posture_4.png</file>
+        <file>PostureImages/posture_5.png</file>
+        <file>PostureImages/posture_6.png</file>
+        <file>PostureImages/posture_7.png</file>
+        <file>PostureImages/posture_8.png</file>
+        <file>PostureImages/posture_9.png</file>
+        <file>PostureImages/posture_10.png</file>
+        <file>ConfigImages/ArmMeasurement.png</file>
+        <file>ConfigPicture/MappingElbowCoor1.png</file>
+        <file>ConfigPicture/MappingElbowCoor2.png</file>
+        <file>ConfigPicture/MappingFore-armRoll.png</file>
+        <file>ConfigPicture/MappingHandCoor1.png</file>
+        <file>ConfigPicture/MappingHandCoor2.png</file>
+        <file>ConfigPicture/Done.png</file>
+        <file>MasterConfig/MasterPosture.txt</file>
+    </qresource>
+</RCC>
