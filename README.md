@@ -3,4 +3,4 @@
 The resouces here include:
 - Full research report
 - Research presentation
-- C++ Code to develop the software for tesing 
+- C++ Code to develop the software for tesing (Mapping Analysis - Learning Experiment)
